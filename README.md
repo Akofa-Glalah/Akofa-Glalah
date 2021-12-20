@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Akofa Unami Glalah
+
+
 - 👀 I’m interested in MS Excel, MS PowerBI, SQL, Python, R and Tableau
 - 🌱 I’m currently learning Google Certification for Project Management as well as various Data,Insurance and Health-Care related short courses
 - 💞️ I’m looking to collaborate on Data Driven Projects
